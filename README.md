@@ -1,4 +1,4 @@
-# Heartlink — Backend ứng dụng hẹn hò, Phase 1
+# Heartlink — Backend ứng dụng hẹn hò, Phase 2
 
 ## 1. Bài toán và phạm vi
 
